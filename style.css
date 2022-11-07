@@ -1,0 +1,31 @@
+
+.Data-Design{
+    font-family: 'Times New Roman', Times, serif;f
+}
+.lefsideContainer{
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+}
+
+i{
+    padding: 2%;
+}
+
+.work{
+    background-color: rgb(255, 255, 255);
+}
+.education{
+    background-color: rgb(255, 255, 255);
+    margin-top: 6%;
+}
+.P-Design{
+    font-weight: bold;
+}
+
+.Footer-Style{
+    margin-top: 3%;
+    background-color: #009688;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
